@@ -1,0 +1,23 @@
+html {
+    background-color: #985ACE;
+    background-blend-mode: overlay;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+.wrapper {
+    background-color: #ec6a0c;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    border-radius: 10px;
+}
+#check {
+    background-color: #0aeb15;
+    border-radius: 5px;
+
+}
